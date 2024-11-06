@@ -1,0 +1,3 @@
+[submodule "proyecto-java"]
+	path = proyecto-java
+	url = https://github.com/san-iri/proyecto-java.git
